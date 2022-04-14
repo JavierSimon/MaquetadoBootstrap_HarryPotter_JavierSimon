@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(to left, gray,white);
+}
+
+header {
+    margin: 10px;
+}
+
+header div img {
+    height: 12vh;
+}
+
+nav {
+    background-image: linear-gradient(to left, gray,white);
+}
+
+main .accordion {
+    height: 60vh;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+main img {
+    
+    height: 70vh;
+    width: 99%;
+}
+
+main h2 {
+    text-shadow: 1px 1px 2px black, 0 0 1em darkblue, 0 0 0.2em darkblue;
+    color: white;
+    font: 1.5rem Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
+
+main p {
+    text-shadow: 1px 1px 2px black, 0 0 1em darkblue, 0 0 0.2em darkblue;
+    color: white;
+    font: 1rem Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
+
+
+footer {
+    margin: 10px;
+    height: 10vh;
+}
+
+footer img {
+    width: 25%;
+    height: 45%;
+}
